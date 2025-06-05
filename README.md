@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi 👋, I'm Mehak kedia
+Fullstack Devloper
+📫 How to reach me kediamehak756@gmail.com
+Connect with me:
+mehakkedia
+
+Languages and Tools:
+c cplusplus css3 git html5 javascript linux mongodb nodejs postman react tailwind
+
+mehakkedia
 
 <!--
 **mehakkedia23/mehakkedia23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
