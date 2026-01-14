@@ -5,7 +5,7 @@ Connect with me:
 mehakkedia
 
 Languages and Tools:
-c cplusplus css3 git html5 javascript linux mongodb nodejs postman react tailwind
+c ,c++, css3 ,git,Python,HTML, 
 
 mehakkedia
 
