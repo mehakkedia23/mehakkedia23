@@ -1,5 +1,4 @@
 Hi 👋, I'm Mehak kedia
-Fullstack Devloper
 📫 How to reach me kediamehak756@gmail.com
 Connect with me:
 mehakkedia
